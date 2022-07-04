@@ -1,1 +1,1 @@
-web: node server.js && bin/boot
+web: node server.js
